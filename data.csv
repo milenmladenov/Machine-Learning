@@ -1,0 +1,5 @@
+SquareFootage,Bedrooms,Bathrooms,LotSize,YearBuilt,Location,Type,Garage,DateOfSale,Price
+200,3,2,300,1995,South Sofia,Single-Family,Attached,2022-01-01,300000
+150,2,1,200,2005,East Sofia,Apartment,None,2022-02-15,200000
+180,4,3,400,1980,Central Sofia,Townhouse,Detached,2022-03-20,400000
+250,5,4,600,2010,North Sofia,Single-Family,Attached,2022-04-10,500000
